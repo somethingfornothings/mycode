@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# python黑帽子教程-代理類
 import sys
 import socket
 import threading
